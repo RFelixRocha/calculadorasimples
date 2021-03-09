@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Calculadora Simples</string>
+    <string name="primeira_nota">Primeira Nota</string>
+    <string name="segunda_nota">Segunda Nota</string>
+    <string name="quantidade_falta">Tatal de faltas</string>
+    <string name="bt_calcular">Calcular</string>
 </resources>
